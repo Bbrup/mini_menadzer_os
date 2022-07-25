@@ -3,7 +3,7 @@
 Mini menadzer os
 Program, który spełnia funkcję mini menadżer przy użyciu bibiloteki OS dla pythona.
 
-Jego funkcje to:
+Jego funkcje to:\n
  1.Pokaz lokalizacje
  2.Zmien lokalizacje
  3.Pokaz pliki w obecnej lokalizacji
